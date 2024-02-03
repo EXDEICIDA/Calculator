@@ -40,6 +40,7 @@ This is a simple calculator application built using .NET Windows Forms Applicati
 ![Calculator 2](./images/Calculator2.png)
 
 
+
 ## Contributing
 
 If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
