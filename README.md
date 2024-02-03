@@ -38,7 +38,8 @@ This is a simple calculator application built using .NET Windows Forms Applicati
 ## Screenshots
 ![Calculator1](https://raw.githubusercontent.com/your-username/your-repository/main/images/Calculator1.png)
 ![Calculator2](https://raw.githubusercontent.com/your-username/your-repository/main/images/Calculator2.png)
-
+![Calculator1.png](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Calculator1.png](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
 ## Contributing
