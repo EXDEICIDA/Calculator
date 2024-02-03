@@ -36,7 +36,7 @@ This is a simple calculator application built using .NET Windows Forms Applicati
    - Clear (`C`)
 
 ## Screenshots
-
+![Calculator1](screenshot.png)
 
 
 ## Contributing
