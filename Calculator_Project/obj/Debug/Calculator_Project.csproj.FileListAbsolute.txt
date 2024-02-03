@@ -1,0 +1,10 @@
+C:\Users\DEICIDA\source\repos\Calculator_Project\bin\Debug\Calculator_Project.exe.config
+C:\Users\DEICIDA\source\repos\Calculator_Project\bin\Debug\Calculator_Project.exe
+C:\Users\DEICIDA\source\repos\Calculator_Project\bin\Debug\Calculator_Project.pdb
+C:\Users\DEICIDA\source\repos\Calculator_Project\obj\Debug\Calculator_Project.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\source\repos\Calculator_Project\obj\Debug\Calculator_Project.Calculator.resources
+C:\Users\DEICIDA\source\repos\Calculator_Project\obj\Debug\Calculator_Project.Properties.Resources.resources
+C:\Users\DEICIDA\source\repos\Calculator_Project\obj\Debug\Calculator_Project.csproj.GenerateResource.cache
+C:\Users\DEICIDA\source\repos\Calculator_Project\obj\Debug\Calculator_Project.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\Calculator_Project\obj\Debug\Calculator_Project.exe
+C:\Users\DEICIDA\source\repos\Calculator_Project\obj\Debug\Calculator_Project.pdb
