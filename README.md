@@ -9,6 +9,7 @@ This is a simple calculator application built using .NET Windows Forms Applicati
 3. **Square Root:** Calculate the square root of a given number.
 4. **Negation:** Convert a positive number to negative and vice versa.
 5. **Clearing:** Reset the calculator to its initial state.
+6. **Resizable Window:** Resize and maximize the calculator window for a better user experience.
 
 ## Technologies Used
 
