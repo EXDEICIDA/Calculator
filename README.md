@@ -36,7 +36,9 @@ This is a simple calculator application built using .NET Windows Forms Applicati
    - Clear (`C`)
 
 ## Screenshots
-![Calculator1](screenshot.png)
+<img width="497" alt="Calculator1" src="https://github.com/EXDEICIDA/Calculator/assets/153072389/a7e02650-cdf2-4886-ab17-4e608552cf88">
+<img width="1277" alt="Calculator2" src="https://github.com/EXDEICIDA/Calculator/assets/153072389/1a37fb9f-83b4-4c17-b368-32a58d35476c">
+
 
 
 ## Contributing
